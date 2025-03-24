@@ -11,19 +11,6 @@
           "src/main/resources/data/pigpocalypse/recipes/hhhh.json"
         ]
       }
-    },
-    {
-      "name": "Hitler",
-      "type": "item",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "hitler",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/pigpocalypse/models/item/hitler.json",
-          "src/main/java/net/mcreator/pigpocalypse/item/HitlerItem.java"
-        ]
-      }
     }
   ],
   "variable_elements": [],
@@ -31,9 +18,7 @@
   "tag_elements": {},
   "tab_element_order": {},
   "language_map": {
-    "en_us": {
-      "item.pigpocalypse.hitler": "Hitler"
-    }
+    "en_us": {}
   },
   "foldersRoot": {
     "name": "~",

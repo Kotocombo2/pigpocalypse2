@@ -11,6 +11,22 @@
           "src/main/resources/data/pigpocalypse/recipes/hhhh.json"
         ]
       }
+    },
+    {
+      "name": "Gggggg",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gggggg",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/pigpocalypse/block/GgggggBlock.java",
+          "src/main/resources/assets/pigpocalypse/models/block/gggggg.json",
+          "src/main/resources/data/pigpocalypse/loot_tables/blocks/gggggg.json",
+          "src/main/resources/assets/pigpocalypse/models/item/gggggg.json",
+          "src/main/resources/assets/pigpocalypse/blockstates/gggggg.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -18,7 +34,9 @@
   "tag_elements": {},
   "tab_element_order": {},
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "block.pigpocalypse.gggggg": "Gggggg"
+    }
   },
   "foldersRoot": {
     "name": "~",
